@@ -1,4 +1,4 @@
-shlex
+
 webbrowser
 requests
 subprocess
