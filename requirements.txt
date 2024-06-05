@@ -1,4 +1,0 @@
-streamlit==0.83.0
-shlex
-requests==2.25.1
-webbrowser
