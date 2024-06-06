@@ -26,6 +26,7 @@ def make_request(error):
 def get_urls(json_dict, pages):
     url_list = []
     count = 0
+    st.write(json_dict)
     for i in json_dict['items']:
         if i["is_answered"]:
             url_list.append(i["link"])
