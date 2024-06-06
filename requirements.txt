@@ -1,5 +1,5 @@
-
-webbrowser==0.5.0
-requests==2.25.1
-subprocess==3.9.7
-webbrowser==0.5.0
+streamlit 
+shlex
+requests
+subprocess
+webbrowser
